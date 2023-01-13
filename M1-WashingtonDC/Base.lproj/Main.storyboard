@@ -38,7 +38,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="WashingtonDC" width="1296" height="1671"/>
+        <image name="WashingtonDC" width="1296.6666259765625" height="1671"/>
         <systemColor name="labelColor">
             <color red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
